@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplaydl-signin-ui-qt-lib.a "CMakeFiles/playdl-signin-ui-qt-lib.dir/playdl-signin-ui-qt-lib_autogen/mocs_compilation.cpp.o" "CMakeFiles/playdl-signin-ui-qt-lib.dir/src/googleloginwindow.cpp.o" "CMakeFiles/playdl-signin-ui-qt-lib.dir/src/materialbusyindicator.cpp.o" "CMakeFiles/playdl-signin-ui-qt-lib.dir/playdl-signin-ui-qt-lib_autogen/EWIEGA46WW/qrc_googlesigninui.cpp.o"
+/usr/bin/ranlib libplaydl-signin-ui-qt-lib.a

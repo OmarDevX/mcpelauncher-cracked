@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/download-glfw3_ext-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/verify-glfw3_ext-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/extract-glfw3_ext-populate.cmake
+source_dir=/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src
+work_dir=/home/omar/Desktop/mcpelauncher-ui/build/_deps
+url(s)=https://github.com/glfw/glfw/archive/master.zip
+hash=
+no_extract=
+

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/CMakeFiles/glfw3_ext-populate"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/CMakeFiles/glfw3_ext-populate.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/CMakeFiles/glfw3_ext-populate-complete.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-build.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-configure.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-download.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-install.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-patch.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-test.rule"
+		},
+		{
+			"file" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-subbuild/glfw3_ext-populate-prefix/src/glfw3_ext-populate-stamp/glfw3_ext-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw3_ext-populate"
+		],
+		"name" : "glfw3_ext-populate"
+	}
+}

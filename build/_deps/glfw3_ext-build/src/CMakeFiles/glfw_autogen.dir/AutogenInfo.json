@@ -1,0 +1,281 @@
+{
+	"BUILD_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/glfw_autogen",
+	"CMAKE_BINARY_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/CMakeLists.txt",
+		"/usr/share/cmake-3.28/Modules/FindX11.cmake",
+		"/usr/share/cmake-3.28/Modules/FindFreetype.cmake",
+		"/usr/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.28/Modules/FindFontconfig.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.28/Modules/CheckFunctionExists.cmake",
+		"/usr/share/cmake-3.28/Modules/CheckLibraryExists.cmake",
+		"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/CMake/glfw3.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/omar/Desktop/mcpelauncher-ui",
+	"DEP_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/glfw_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "glfw_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/include/GLFW/glfw3.h",
+			"MU",
+			"F7LFC7AC67/moc_glfw3.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/include/GLFW/glfw3native.h",
+			"MU",
+			"F7LFC7AC67/moc_glfw3native.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/internal.h",
+			"MU",
+			"EWIEGA46WW/moc_internal.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/linux_joystick.h",
+			"MU",
+			"EWIEGA46WW/moc_linux_joystick.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/mappings.h",
+			"MU",
+			"EWIEGA46WW/moc_mappings.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_joystick.h",
+			"MU",
+			"EWIEGA46WW/moc_null_joystick.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_platform.h",
+			"MU",
+			"EWIEGA46WW/moc_null_platform.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/platform.h",
+			"MU",
+			"EWIEGA46WW/moc_platform.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_poll.h",
+			"MU",
+			"EWIEGA46WW/moc_posix_poll.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_thread.h",
+			"MU",
+			"EWIEGA46WW/moc_posix_thread.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_time.h",
+			"MU",
+			"EWIEGA46WW/moc_posix_time.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/x11_platform.h",
+			"MU",
+			"EWIEGA46WW/moc_x11_platform.cpp",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/xkb_unicode.h",
+			"MU",
+			"EWIEGA46WW/moc_xkb_unicode.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/glfw_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/glfw_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "_DEFAULT_SOURCE", "_GLFW_X11" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src",
+		"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src",
+		"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/include",
+		"/usr/include",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++14",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/glfw_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/CMakeFiles/glfw_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-build/src/CMakeFiles/glfw_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/context.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/egl_context.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/glx_context.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/init.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/input.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/linux_joystick.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/monitor.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_init.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_joystick.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_monitor.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/null_window.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/osmesa_context.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/platform.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_module.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_poll.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_thread.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/posix_time.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/vulkan.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/window.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/x11_init.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/x11_monitor.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/x11_window.c",
+			"MU",
+			null
+		],
+		[
+			"/home/omar/Desktop/mcpelauncher-ui/build/_deps/glfw3_ext-src/src/xkb_unicode.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

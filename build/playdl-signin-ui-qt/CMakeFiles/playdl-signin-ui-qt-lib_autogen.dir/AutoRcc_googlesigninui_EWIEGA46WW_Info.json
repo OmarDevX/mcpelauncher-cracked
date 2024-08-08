@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/playdl-signin-ui-qt/playdl-signin-ui-qt-lib_autogen",
+	"CMAKE_BINARY_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/playdl-signin-ui-qt",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/omar/Desktop/mcpelauncher-ui/playdl-signin-ui-qt",
+	"CMAKE_SOURCE_DIR" : "/home/omar/Desktop/mcpelauncher-ui",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/omar/Desktop/mcpelauncher-ui/build/playdl-signin-ui-qt/playdl-signin-ui-qt-lib_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/omar/Desktop/mcpelauncher-ui/playdl-signin-ui-qt/src/injectjs.js"
+	],
+	"LOCK_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/playdl-signin-ui-qt/CMakeFiles/playdl-signin-ui-qt-lib_autogen.dir/AutoRcc_googlesigninui_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "googlesigninui" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_googlesigninui.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/omar/Desktop/mcpelauncher-ui/build/playdl-signin-ui-qt/CMakeFiles/playdl-signin-ui-qt-lib_autogen.dir/AutoRcc_googlesigninui_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/omar/Desktop/mcpelauncher-ui/playdl-signin-ui-qt/googlesigninui.qrc",
+	"VERBOSITY" : 0
+}

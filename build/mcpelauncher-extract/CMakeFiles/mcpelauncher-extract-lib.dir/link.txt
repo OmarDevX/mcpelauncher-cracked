@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmcpelauncher-extract-lib.a "CMakeFiles/mcpelauncher-extract-lib.dir/lib/zip_extractor.cpp.o"
+/usr/bin/ranlib libmcpelauncher-extract-lib.a

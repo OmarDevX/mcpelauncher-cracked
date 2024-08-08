@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/axml_parser_demo.dir/main.cpp.o -o axml_parser_demo  libaxml_parser.a 
