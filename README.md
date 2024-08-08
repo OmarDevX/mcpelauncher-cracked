@@ -7,9 +7,9 @@ cd mcpelauncher-ui && mkdir -p build && cd build
 cmake ..
 make -j$(getconf _NPROCESSORS_ONLN)
 ```
-macOS: replace the cmake line with cmake -DCMAKE_PREFIX_PATH=$(brew --prefix qt@5) ..
+macOS: replace the ```cmake``` line with ```cmake -DCMAKE_PREFIX_PATH=$(brew --prefix qt@5) ..```
 
-If you haven’t installed the launcher system-wide, please replace cmake .. with cmake -DGAME_LAUNCHER_PATH=/absolute/path/to/mcpelauncher/build/dir/mcpelauncher-client .. (if you compiled the mcpelauncher-manifest in /home/paul, then you’d have to use cmake -DGAME_LAUNCHER_PATH=/home/paul/mcpelauncher-manifest/build/mcpelauncher-client .. as the command).
+If you haven’t installed the launcher system-wide, please replace ```cmake ..``` with ```cmake -DGAME_LAUNCHER_PATH=/absolute/path/to/mcpelauncher/build/dir/mcpelauncher-client ..``` (if you compiled the mcpelauncher-manifest in /home/paul, then you’d have to use ```cmake -DGAME_LAUNCHER_PATH=/home/paul/mcpelauncher-manifest/build/mcpelauncher-client ..``` as the command).
 
 ## Installation
 You can now optionally install the launcher system-wise.
